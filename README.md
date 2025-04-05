@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Environment-Conda-green?logo=anaconda" />
   <img src="https://img.shields.io/badge/Status-Learning-orange" />
 </p>
-# 👋 Hi there! I'm Aurora MAI
+👋 Hi there! I'm Aurora MAI
 
 🎓 A graduate student at **Shanghai Ocean University**  
 🧬 Passionate about **bioinformatics, eDNA monitoring, and mitochondrial genome QC**  
