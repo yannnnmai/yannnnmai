@@ -53,6 +53,7 @@ I'm developing a semi-automated workflow to validate public DNA reference sequen
 
 📍 Shanghai, China  
 📧 Email: yann_maii@foxmail.com 
+
 🧭 Open to research collaborations and learning new things!
 
 ---
